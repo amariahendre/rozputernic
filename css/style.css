@@ -1,9 +1,6 @@
 /* ------------------------------------------------------------------------------
 
-  Template Name: Lewis
-  Description: Leiws - Creative Portfolio HTML Template
-  Author: Paul
-  Author URI: http://themeforest.net/user/paul_tf
+
 
   1.  Global
 
@@ -3322,15 +3319,15 @@ a:hover .zooming img {
 }
 
 .home-horizontal .slide1 .slide-bg > .inside {
-    background-image: url("../img/bg-horizontal1_.jpg");
+    background-image: url("../img/fill_.jpg");
 }
 
 .home-horizontal .slide3 .slide-bg > .inside {
-    background-image: url("../img/bg-horizontal3.jpg");
+    background-image: url("../img/none.jpg");
 }
 
 .home-horizontal .slide5 .slide-bg > .inside {
-    background-image: url("../img/bg-horizontal5.jpg");
+    background-image: url("../img/fill.jpg");
 }
 
 .slide-container .container {
@@ -3821,24 +3818,24 @@ a.btn-play i {
 }
 
 .home-piling .slide1 {
-    background: #1f5152;
+    background: #696567;
 }
 
 .home-piling .slide1 .slide-bg > .inside {
-    background-image: url("../img/bg-piling1.jpg");
+    background-image: url("../img/fill.jpg");
 }
 
 .home-piling .slide-bg-circle > .inside {
-    background-image: url("../img/piling-pic2.png");
+    background-image: url("../img/none.png");
     background-color: #f6f6f6;
 }
 
 .home-piling .slide5 .slide-bg > .inside {
-    background-image: url("../img/bg-piling5.jpg");
+    background-image: url("../img/none.jpg");
 }
 
 .home-piling .slide6 .slide-bg > .inside {
-    background-image: url("../img/bg-piling6.jpg");
+    background-image: url("../img/none.jpg");
 }
 
 .home-piling .slide6 .slide-bg-circle > .inside {
